@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-22T15:59:59.266Z",
+  "passed": [
+    "Keyboard skip link, dropdown opening/escape, and cross-page theme/RTL persistence",
+    "Public mobile menu and Escape at 320px",
+    "Contact required fields, consent, validation and honest local success state",
+    "Registration mismatch handling and no persisted password",
+    "Mobile sidebar focus/inert handling and desktop collapse",
+    "Settings threshold validation and persistence",
+    "Deletion cancellation, confirmation and cascading data consistency",
+    "Overview chart totals agree with shared records after deletion"
+  ],
+  "accessibility": [
+    {
+      "page": "404",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "404",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "about",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "about",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "blog-details",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "blog-details",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "blog",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "blog",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "clients",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "clients",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "coming-soon",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "coming-soon",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "contact",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "contact",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "customized-training",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "customized-training",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "forgot-password",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "forgot-password",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "home-2",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "home-2",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "index",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "index",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "login",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "login",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "methodology",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "methodology",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "pricing",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "pricing",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "privacy",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "privacy",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "program-details",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "program-details",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "programs",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "programs",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "register",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "register",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "terms",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "terms",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/attendance",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/attendance",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/batches",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/batches",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/calendar",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/calendar",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/certificates",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/certificates",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/completion",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/completion",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/departments",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/departments",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/employees",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/employees",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/enrollments",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/enrollments",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/index",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/index",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/notifications",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/notifications",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/profile",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/profile",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/programs",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/programs",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/reports",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/reports",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/settings",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/settings",
+      "theme": "dark",
+      "violations": []
+    }
+  ]
+}

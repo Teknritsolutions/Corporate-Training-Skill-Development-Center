@@ -1,0 +1,14 @@
+[dir="rtl"] .bi-arrow-right::before {
+    transform: scaleX(-1);
+}
+[dir="rtl"] .text-link:hover .bi {
+    transform: translateX(-4px);
+}
+[dir="rtl"] .hero h1 {
+    letter-spacing: -1px;
+}
+[dir="rtl"] input[type="email"],
+[dir="rtl"] input[type="date"],
+[dir="rtl"] .chart-box {
+    direction: ltr;
+}

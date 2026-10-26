@@ -1,0 +1,34 @@
+:root[data-theme="dark"] {
+    color-scheme: dark;
+    --navy: #142b49;
+    --blue: #8ebcf1;
+    --teal: #69d4cb;
+    --bg: #0c1422;
+    --soft: #111e30;
+    --surface: #18283c;
+    --text: #f3f7fc;
+    --muted: #b9c8d9;
+    --border: #2b3d53;
+    --tint: #183b40;
+}
+[data-theme="dark"] .brand {
+    color: #f3f7fc;
+}
+[data-theme="dark"] .btn {
+    background: #187c77;
+    color: #fff;
+}
+[data-theme="dark"] .btn-outline {
+    background: transparent;
+    border-color: #526781;
+    color: #f3f7fc;
+}
+[data-theme="dark"] .case .text-link {
+    color: #70d6cd;
+}
+[data-theme="dark"] .form-status.error {
+    color: #ffaaaa;
+}
+[data-theme="dark"] .primary-nav a.btn.active {
+    color: #fff;
+}

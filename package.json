@@ -1,0 +1,23 @@
+{
+    "name": "elevora-corporate-training",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node scripts/serve.cjs",
+        "build": "node scripts/build.cjs && node scripts/format.cjs",
+        "test": "node tests/audit.cjs",
+        "test:browser": "node tests/browser.cjs",
+        "format": "node scripts/format.cjs",
+        "test:workflows": "node tests/workflows.cjs",
+        "test:design": "node tests/premium.cjs"
+    },
+    "devDependencies": {
+        "@axe-core/playwright": "4.10.2",
+        "bootstrap": "5.3.3",
+        "bootstrap-icons": "1.11.3",
+        "chart.js": "4.4.8",
+        "jspdf": "3.0.1",
+        "playwright": "1.51.1",
+        "prettier": "3.6.2"
+    }
+}

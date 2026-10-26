@@ -1,0 +1,6 @@
+const {chromium}=require('playwright');const path=require('path');
+(async()=>{const b=await chromium.launch({headless:true,executablePath:path.join(process.env.LOCALAPPDATA,'ms-playwright/chromium-1248/chrome-win64/chrome.exe')});const p=await b.newPage();const failures=[];
+for(const width of [390,768,1440]){await p.setViewportSize({width,height:1000});await p.goto('http://127.0.0.1:4173/pages/clients.html');await p.evaluate(()=>document.fonts.ready);await p.locator('.vh-photo').evaluate(i=>i.decode());
+for(const dir of ['ltr','rtl']){await p.evaluate(d=>document.documentElement.dir=d,dir);const result=await p.evaluate(()=>({overflow:document.documentElement.scrollWidth>innerWidth+1,heroDifference:Math.abs(document.querySelector('.vh-clients .vh-media').getBoundingClientRect().height-document.querySelector('.vh-clients .vh-copy').getBoundingClientRect().height)}));if(result.overflow||(width===1440&&result.heroDifference>2))failures.push({width,dir,...result});}
+await p.evaluate(()=>document.documentElement.dir='ltr');await p.screenshot({path:'documentation/screenshots/clients-refined-'+width+'.png',fullPage:true});}
+console.log(JSON.stringify({checks:6,failures}));await b.close();if(failures.length)process.exitCode=1;})();

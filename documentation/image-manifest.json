@@ -1,0 +1,170 @@
+[
+    {
+        "file": "assets/images/company-story.webp",
+        "page": "pages/about.html",
+        "description": "Learning designers collaborating on a new curriculum",
+        "bytes": 108972,
+        "sha256": "547110e9d73affffd29ee2c6eca28208d87d7ac653b281d2d603290714eca9f7"
+    },
+    {
+        "file": "assets/images/article-reflection.webp",
+        "page": "pages/blog-details.html",
+        "description": "A manager reflecting on workplace learning beside an office window",
+        "bytes": 67932,
+        "sha256": "b733b5d1eb050e0f620040e63fc05f31e3e09136d8e58a9855b14d4b4a980dae"
+    },
+    {
+        "file": "assets/images/blog-feature.webp",
+        "page": "pages/blog.html",
+        "description": "Business leaders discussing a workforce learning strategy",
+        "bytes": 97614,
+        "sha256": "417593f7f6407a9150188f53c54850d68a13dfc7b178d3e73fe062160b40dead"
+    },
+    {
+        "file": "assets/images/custom-consultation.webp",
+        "page": "pages/customized-training.html",
+        "description": "HR manager discussing a tailored training plan with a consultant",
+        "bytes": 116628,
+        "sha256": "334dc993182a05eaedbf50fe9698cc85b4ebdf72e46d7441d856e702109f448c"
+    },
+    {
+        "file": "assets/images/home2-executive-learning.webp",
+        "page": "pages/home-2.html",
+        "description": "Executives participating in a facilitated learning session",
+        "bytes": 91410,
+        "sha256": "4ab94e7474f21cd74103ee55c87cc57819a253f35ff38c199ea356b1d1305803"
+    },
+    {
+        "file": "assets/images/executive-program.webp",
+        "page": "pages/home-2.html",
+        "description": "Executive coach facilitating a leadership simulation",
+        "bytes": 95740,
+        "sha256": "6e7eaa9edbfe825e58df9b69e0e13b6e109b05a91dc35f8375bdfd74074121b5"
+    },
+    {
+        "file": "assets/images/learning-experience.webp",
+        "page": "pages/home-2.html",
+        "description": "Hands-on collaborative learning with worksheets and notebooks",
+        "bytes": 156644,
+        "sha256": "a42b47df18258308d44bebecdc5bb4da01086c3d57c11f6e1cb4d25ce2097fb8"
+    },
+    {
+        "file": "assets/images/trainer-maya.webp",
+        "page": "pages/home-2.html",
+        "description": "Fictional trainer portrait: Maya Patel",
+        "bytes": 53680,
+        "sha256": "a0a05950e88c45705821be429eda2f4da5996fd1d6d38f3707ed7af1243c777a"
+    },
+    {
+        "file": "assets/images/trainer-james.webp",
+        "page": "pages/home-2.html",
+        "description": "Fictional trainer portrait: James Carter",
+        "bytes": 61100,
+        "sha256": "0f08398e5f19d0aa883536dc2eca06b6e2bb326866acee213a4e4ea3bfae55d9"
+    },
+    {
+        "file": "assets/images/trainer-elena.webp",
+        "page": "pages/home-2.html",
+        "description": "Fictional trainer portrait: Elena Torres",
+        "bytes": 61440,
+        "sha256": "e24973fff9a97f34a6f4b27b0fd5424df2262293261e30cf9cacbc2659b59f96"
+    },
+    {
+        "file": "assets/images/home1-corporate-training-hero.webp",
+        "page": "pages/index.html",
+        "description": "Trainer guiding a collaborative corporate workshop",
+        "bytes": 95688,
+        "sha256": "49c6bba630009e9cca821b01a1ea3d0c7496429a67e523bc80c64ebe23cc0a5a"
+    },
+    {
+        "file": "assets/images/communication-workshop.webp",
+        "page": "pages/index.html",
+        "description": "Communication Skills workshop with business professionals",
+        "bytes": 85322,
+        "sha256": "bcaebd290c47cb538edf8c64cf9624f87627f216209bd719abebfaf429a442d5"
+    },
+    {
+        "file": "assets/images/leadership-workshop.webp",
+        "page": "pages/index.html",
+        "description": "Leadership Development workshop with business professionals",
+        "bytes": 87868,
+        "sha256": "796709fde5d5ac18e1bc6a849f1e4131b4042abe6fd6842174157384cfcd103e"
+    },
+    {
+        "file": "assets/images/sales-coaching.webp",
+        "page": "pages/index.html",
+        "description": "Sales Excellence workshop with business professionals",
+        "bytes": 77118,
+        "sha256": "cfa7623bdf0b0b736fa0284d15405e8a78a221a818a9565ae779099a844ad8e7"
+    },
+    {
+        "file": "assets/images/technical-lab.webp",
+        "page": "pages/index.html",
+        "description": "Technical Upskilling workshop with business professionals",
+        "bytes": 116412,
+        "sha256": "6269b45f72cd1fbe4574a74c91993c107f5b6ccf2778c1d6015ccad4c2d699cd"
+    },
+    {
+        "file": "assets/images/about-center.webp",
+        "page": "pages/index.html",
+        "description": "Teams learning together at a modern training center",
+        "bytes": 111138,
+        "sha256": "29a8811ab3ac4bb742e6e5eec48356a7ae282f0689273aaa093958c408825731"
+    },
+    {
+        "file": "assets/images/classroom-learning.webp",
+        "page": "pages/index.html",
+        "description": "Classroom training for working professionals",
+        "bytes": 77242,
+        "sha256": "255d283b7555eddf4855508016973ee526a53b38b3ee0448262d8a1bb5265af7"
+    },
+    {
+        "file": "assets/images/virtual-learning.webp",
+        "page": "pages/index.html",
+        "description": "Live virtual learning for working professionals",
+        "bytes": 76350,
+        "sha256": "02fd3a744597427ddfba6379bfebb0e1d904666ca182cef8cca0cbed0aa6e56e"
+    },
+    {
+        "file": "assets/images/hybrid-learning.webp",
+        "page": "pages/index.html",
+        "description": "Hybrid learning for working professionals",
+        "bytes": 91392,
+        "sha256": "05e44a8eed660d4a669a738a85186adcc10227c08d1bab64cadd6907500fc0a8"
+    },
+    {
+        "file": "assets/images/case-study-team.webp",
+        "page": "pages/index.html",
+        "description": "Operations colleagues reviewing a collaborative project",
+        "bytes": 112904,
+        "sha256": "fa495f5a0bb5f8eef8258fdc0bd2f2620812bdb5d23d531d304ade1bb0895147"
+    },
+    {
+        "file": "assets/images/insight-leadership.webp",
+        "page": "pages/index.html",
+        "description": "A practical framework for turning strong individual contributors into confident team leaders.",
+        "bytes": 77258,
+        "sha256": "990bf9d50f4bbeba18e24cf3e1150062e567ec18ebeb45f53da2d9c7af86810f"
+    },
+    {
+        "file": "assets/images/insight-communication.webp",
+        "page": "pages/index.html",
+        "description": "Small conversations can build a more open, effective workplace.",
+        "bytes": 81556,
+        "sha256": "f00e82cf5b8e4b26082a98a85a05b00078dbb3ada7da447f3ac3ee90759c81bf"
+    },
+    {
+        "file": "assets/images/insight-digital.webp",
+        "page": "pages/index.html",
+        "description": "Connect new tools with the real work your teams do every day.",
+        "bytes": 105046,
+        "sha256": "f7879fb9ba665718bba83656162cab4e1768f56ea556b58092fd3d9c90d0e80f"
+    },
+    {
+        "file": "assets/images/methodology-workshop.webp",
+        "page": "pages/methodology.html",
+        "description": "Facilitator supporting a practical group problem solving exercise",
+        "bytes": 80628,
+        "sha256": "1c201e773b60d3bb0711d11bf03ae0f904eeeda553894312a67b0db9c50becab"
+    }
+]

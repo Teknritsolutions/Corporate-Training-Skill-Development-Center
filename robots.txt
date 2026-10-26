@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /pages/dashboard/
+Disallow: /pages/login.html
+Disallow: /pages/register.html
+Disallow: /pages/forgot-password.html
+Sitemap: https://elevora.example/sitemap.xml

@@ -1,0 +1,120 @@
+{
+  "generator": "Built-in image_gen",
+  "style": "Premium photorealistic natural editorial photography, landscape 3:2, generous headroom, all heads within central 70%, no text or logos",
+  "images": [
+    {
+      "page": "index",
+      "path": "assets/images/heroes/index.webp",
+      "scene": "an experienced facilitator leading an interactive workshop for a diverse group of six business professionals in an elegant sunlit learning studio",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: an experienced facilitator leading an interactive workshop for a diverse group of six business professionals in an elegant sunlit learning studio. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "home-2",
+      "path": "assets/images/heroes/home-2.webp",
+      "scene": "senior executives in a thoughtful roundtable strategy session in a refined modern boardroom",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: senior executives in a thoughtful roundtable strategy session in a refined modern boardroom. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "about",
+      "path": "assets/images/heroes/about.webp",
+      "scene": "a small team of learning designers collaborating with notebooks in a welcoming training studio",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a small team of learning designers collaborating with notebooks in a welcoming training studio. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "programs",
+      "path": "assets/images/heroes/programs.webp",
+      "scene": "business professionals practicing communication skills in a guided small group workshop",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: business professionals practicing communication skills in a guided small group workshop. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "program-details",
+      "path": "assets/images/heroes/program-details.webp",
+      "scene": "a leadership coach supporting two managers through a practical role play exercise",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a leadership coach supporting two managers through a practical role play exercise. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "methodology",
+      "path": "assets/images/heroes/methodology.webp",
+      "scene": "a facilitator and learners arranging physical learning cards and a process map on a workshop table",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a facilitator and learners arranging physical learning cards and a process map on a workshop table. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "clients",
+      "path": "assets/images/heroes/clients.webp",
+      "scene": "a client team and training consultant celebrating completion of a collaborative project",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a client team and training consultant celebrating completion of a collaborative project. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "customized-training",
+      "path": "assets/images/heroes/customized-training.webp",
+      "scene": "an HR director and learning consultant designing a bespoke training plan together",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: an HR director and learning consultant designing a bespoke training plan together. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "blog",
+      "path": "assets/images/heroes/blog.webp",
+      "scene": "an editorial desk with an open notebook and a professional reading beside a sunlit library window",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: an editorial desk with an open notebook and a professional reading beside a sunlit library window. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "blog-details",
+      "path": "assets/images/heroes/blog-details.webp",
+      "scene": "a new manager reflecting in a notebook with a mentor in a quiet office lounge",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a new manager reflecting in a notebook with a mentor in a quiet office lounge. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "contact",
+      "path": "assets/images/heroes/contact.webp",
+      "scene": "a welcoming training centre reception with a professional advisor ready to greet visitors",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a welcoming training centre reception with a professional advisor ready to greet visitors. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "pricing",
+      "path": "assets/images/heroes/pricing.webp",
+      "scene": "a training advisor reviewing learning package options with a business customer",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a training advisor reviewing learning package options with a business customer. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "privacy",
+      "path": "assets/images/heroes/privacy.webp",
+      "scene": "a professional carefully reviewing a data privacy document at a refined workspace",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a professional carefully reviewing a data privacy document at a refined workspace. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "terms",
+      "path": "assets/images/heroes/terms.webp",
+      "scene": "a business consultant reviewing a service agreement in a modern office",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a business consultant reviewing a service agreement in a modern office. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "login",
+      "path": "assets/images/heroes/login.webp",
+      "scene": "a professional arriving at a quiet contemporary learning centre with a laptop",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a professional arriving at a quiet contemporary learning centre with a laptop. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "register",
+      "path": "assets/images/heroes/register.webp",
+      "scene": "two new learners being welcomed by a course advisor at a modern training centre",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: two new learners being welcomed by a course advisor at a modern training centre. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "forgot-password",
+      "path": "assets/images/heroes/forgot-password.webp",
+      "scene": "a helpful technology support specialist assisting a professional at a laptop",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a helpful technology support specialist assisting a professional at a laptop. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "coming-soon",
+      "path": "assets/images/heroes/coming-soon.webp",
+      "scene": "a beautifully prepared modern learning studio with notebooks and chairs ready for a new cohort",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a beautifully prepared modern learning studio with notebooks and chairs ready for a new cohort. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    },
+    {
+      "page": "404",
+      "path": "assets/images/heroes/404.webp",
+      "scene": "a quiet elegant office corridor with a helpful directional sign without readable text and warm natural light",
+      "prompt": "Create a premium photorealistic natural editorial photograph for a corporate training website page: a quiet elegant office corridor with a helpful directional sign without readable text and warm natural light. Landscape 3:2 composition, wide environmental framing, authentic candid interaction, sophisticated navy and teal details, warm daylight, realistic skin, professional photography. No written text, logos, graphic overlays or watermarks. Keep every person's entire head and shoulders comfortably inside the central 70 percent of the frame, generous headroom, no cut heads, no extreme closeups. This is one standalone photograph, not a collage."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Generated with the built-in imagegen tool.
+
+Shared prompt: Create one photorealistic editorial corporate learning photograph for a website card background. Natural daylight, authentic diverse adult professionals, premium realistic photography, navy and teal subtle accents. Landscape 3:2 composition, subject visible in the upper and middle portion, no text, no logos, no watermarks.
+
+classroom.webp: Colleagues participating in a facilitator-led workshop in a bright modern meeting room.
+virtual.webp: Professional at a laptop attending a video workshop from a calm home office, multiple colleagues visible on the laptop screen.
+hybrid.webp: Small team in a modern conference room collaborating with remote colleagues displayed on a large wall screen.
+
+Outputs optimized to 1000px-wide WebP at quality 84.

@@ -1,0 +1,175 @@
+[
+  {
+    "name": "csa",
+    "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/index.html",
+    "status": 200,
+    "title": "Local Farm and CSA | Pure Fields - Organic Produce",
+    "headings": [
+      "Weekly fresh produce from\n                    \n                    local farms to your table",
+      "A local CSA built for real weekly routines.",
+      "How the Pure Fields membership works each week.",
+      "Flexible CSA plans and seasonal add-ons.",
+      "A simple subscription flow from plan selection to weekly pickup.",
+      "Short reads for members who want better meals and better timing.",
+      "What members say after the first few deliveries."
+    ],
+    "font": "Poppins, sans-serif",
+    "sections": 7,
+    "charts": 0
+  },
+  {
+    "name": "events",
+    "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/index.html",
+    "status": 200,
+    "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+    "headings": [
+      "Crafting Unforgettable Luxury Events",
+      "Luxury Planning, Seamlessly Curated",
+      "Celebrations Crafted with Vision",
+      "Your Celebration, Thoughtfully Crafted",
+      "Designing Experiences, Not Just Events",
+      "Luxury Collections, Tailored to Your Vision",
+      "Every Celebration, A Lasting Memory",
+      "Let’s Create Something Extraordinary"
+    ],
+    "font": "Manrope, system-ui, -apple-system, sans-serif",
+    "sections": 9,
+    "charts": 0
+  },
+  {
+    "name": "bookstore",
+    "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/index.html",
+    "status": 200,
+    "title": "Local Indie Bookstore",
+    "headings": [
+      "Explore Stories From Independent Bookshops",
+      "Featured Books",
+      "Staff Picks",
+      "Browse Book Categories",
+      "What Our Readers Say",
+      "Bookstore Moments",
+      "Author Events",
+      "Subscribe to Our Newsletter"
+    ],
+    "font": "Poppins, sans-serif",
+    "sections": 8,
+    "charts": 0
+  },
+  {
+    "name": "food",
+    "url": "https://teknrit-maker.github.io/FoodTruck/Pages/menu.html",
+    "status": 200,
+    "title": "Food Truck",
+    "headings": [
+      "Explore Our Delicious Menu",
+      "Browse Our Menu",
+      "BBQ Chicken Signature Pizza",
+      "Craving Something Delicious?",
+      "Food Name"
+    ],
+    "font": "Poppins, sans-serif",
+    "sections": 5,
+    "charts": 0
+  },
+  {
+    "name": "yarn",
+    "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/",
+    "status": 200,
+    "title": "Boutique Yarn - Premium Craft Supplies",
+    "headings": [
+      "Design-led yarns for modern makers.",
+      "Atelier Picks",
+      "Signature Pattern Library",
+      "Crafted For Modern Makers",
+      "Loved By Yarn Makers",
+      "Pricing Built for Modern Studios",
+      "Latest From The Atelier",
+      "Start your next masterpiece with our premium yarn library."
+    ],
+    "font": "\"Plus Jakarta Sans\", \"Segoe UI\", Arial, sans-serif",
+    "sections": 8,
+    "charts": 0
+  },
+  {
+    "name": "bookstore-admin",
+    "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/Admin%20Dashboard.html",
+    "status": 200,
+    "title": "Admin Dashboard - Indie Bookstore",
+    "headings": [
+      "Dashboard",
+      "$45,231",
+      "1,204",
+      "23",
+      "450",
+      "38",
+      "3.2%",
+      "Users",
+      "Products",
+      "Analytics",
+      "Settings"
+    ],
+    "font": "Manrope, sans-serif",
+    "sections": 5,
+    "charts": 0
+  },
+  {
+    "name": "bookstore-user",
+    "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/User%20Dashboard.html",
+    "status": 200,
+    "title": "User Dashboard - Indie Bookstore",
+    "headings": [
+      "Dashboard",
+      "24",
+      "1,540",
+      "2",
+      "My Orders",
+      "Wishlist",
+      "Products",
+      "Reading Goals",
+      "Recommendations",
+      "Profile",
+      "Support"
+    ],
+    "font": "Manrope, sans-serif",
+    "sections": 8,
+    "charts": 0
+  },
+  {
+    "name": "events-about",
+    "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/about.html",
+    "status": 200,
+    "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+    "headings": [
+      "Crafting Experiences That Define Moments",
+      "Our Story",
+      "Meet the Vision Behind IMPERIA",
+      "Principles That Define IMPERIA",
+      "From Vision to Iconic Experiences",
+      "Numbers That Define Excellence",
+      "Let’s Create Something Exceptional"
+    ],
+    "font": "Manrope, system-ui, -apple-system, sans-serif",
+    "sections": 7,
+    "charts": 0
+  },
+  {
+    "name": "csa-about",
+    "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/about.html",
+    "status": 200,
+    "title": "About Pure Fields | Local Farm and CSA Story",
+    "headings": [
+      "The mission and people behind our weekly harvest boxes.",
+      "Seasonal crops packed across the year",
+      "Years building local farm relationships",
+      "Member households served on active routes",
+      "Nearby growers contributing through the season",
+      "Quality is built in the field, not added later in the supply chain.",
+      "Meet the people behind the weekly route.",
+      "From harvest planning to the box at your door.",
+      "Visit the farm, ask a question, or talk to our member support team."
+    ],
+    "font": "Poppins, sans-serif",
+    "sections": 5,
+    "charts": 0
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "path": "assets/images/supporting/priya-rao.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. A professional editorial portrait of Priya Rao, a fictional Indian woman learning director in her early forties, thoughtful warm expression, dark tailored jacket, seated in a refined contemporary learning studio. Square portrait composition, full head and shoulders, generous clear headroom, face centered, natural skin texture, authentic expression. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    },
+    {
+      "path": "assets/images/supporting/daniel-brooks.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. A professional editorial portrait of Daniel Brooks, a fictional Black British male program director in his mid forties, friendly confident expression, open collar navy shirt, seated in a refined contemporary learning studio. Square portrait composition, full head and shoulders, generous clear headroom, face centered, natural skin texture, authentic expression. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    },
+    {
+      "path": "assets/images/supporting/sofia-chen.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. A professional editorial portrait of Sofia Chen, a fictional East Asian woman client partner in her late thirties, approachable warm expression, neutral tailored outfit, seated in a refined contemporary learning studio. Square portrait composition, full head and shoulders, generous clear headroom, face centered, natural skin texture, authentic expression. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    },
+    {
+      "path": "assets/images/supporting/program-practice.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. Diverse working professionals practising a presentation exercise in a small group, modern corporate learning workshop, attentive colleagues, elegant sunlit workspace. Landscape 3:2 composition, wide framing, all heads entirely visible with generous headroom, authentic candid interaction. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    },
+    {
+      "path": "assets/images/supporting/client-review.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. An HR partner and a business team reviewing an anonymised learning progress report on paper together, collaborative thoughtful interaction, premium modern workspace, no readable text. Landscape 3:2 composition, wide framing, all heads entirely visible with generous headroom, authentic candid interaction. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    },
+    {
+      "path": "assets/images/supporting/training-investment.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. A business learning advisor and finance colleague planning a sensible training budget with notebooks and a laptop, calm collaborative conversation, refined modern office. Landscape 3:2 composition, wide framing, all heads entirely visible with generous headroom, authentic candid interaction. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    },
+    {
+      "path": "assets/images/supporting/learning-campus.webp",
+      "prompt": "Photorealistic premium corporate editorial photograph. An inviting contemporary corporate training campus lounge, comfortable chairs, leafy plants, glass meeting rooms, natural daylight, refined welcoming architecture, no people or signs. Landscape 3:2 composition, wide framing, all heads entirely visible with generous headroom, authentic candid interaction. Sophisticated navy, teal, and warm neutral accents, soft daylight, realistic professional photography. No logos, watermarks, graphic overlays, or readable text. One standalone photograph."
+    }
+  ]
+}

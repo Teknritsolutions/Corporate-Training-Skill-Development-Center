@@ -1,0 +1,14 @@
+const faq="<section class=\"section training-faq\" aria-labelledby=\"training-faq-title\"><div class=\"container training-faq-layout\"><div class=\"training-faq-intro\"><span class=\"eyebrow\">A little more clarity</span><h2 id=\"training-faq-title\">Your questions,<br />answered.</h2><p>Understand how the content, delivery, and follow-up can fit your team before you shape your training brief.</p></div><div class=\"training-faq-list\"><details><summary><span>Can we customize the content?</span><i class=\"bi bi-plus-lg\" aria-hidden=\"true\"></i></summary><p>Yes. We start with your business context, then adapt exercises, examples, and learning outcomes to your teams.</p></details><details><summary><span>Which delivery formats are available?</span><i class=\"bi bi-plus-lg\" aria-hidden=\"true\"></i></summary><p>Choose classroom workshops, live virtual sessions, or a blended journey with practical assignments. The format can reflect your locations, schedule, and learning goals.</p></details><details><summary><span>How is learning measured?</span><i class=\"bi bi-plus-lg\" aria-hidden=\"true\"></i></summary><p>A baseline assessment, observed practice, module completion, and a follow-up review help you understand progress against your agreed goals.</p></details></div><div class=\"training-advisor-note\"><i class=\"bi bi-chat-square-dots\" aria-hidden=\"true\"></i><div><strong>Have a specific requirement?</strong><p>Tell us about your audience, schedule, or learning priorities and we can discuss the options.</p><a class=\"text-link\" href=\"contact.html\">Speak to an advisor <i class=\"bi bi-arrow-right\" aria-hidden=\"true\"></i></a></div></div></div></section>";
+const steps="<ol class=\"training-brief-steps\"><li><span>01</span><div><strong>Tell us about your team</strong><p>Share your audience, role mix, and the skills you want to build.</p></div></li><li><span>02</span><div><strong>Set your priorities</strong><p>Choose a topic, preferred format, and a suitable timeframe.</p></div></li><li><span>03</span><div><strong>Describe success</strong><p>Add the workplace outcomes you want the learning to support.</p></div></li></ol>";
+module.exports=function compact(html){
+html=html.replace(/<section\b[^>]*>[\s\S]*?<\/section>/g,section=>{
+if(section.includes('id="training-inquiry"')&&!section.includes('training-form-layout')){
+section=section.replace('class="split"','class="split training-form-layout"');
+section=section.replace(/<p>\s*For a live website,[\s\S]*?<\/p>/,steps);
+section=section.replace('<div class="card padded">','<div class="card training-form-card"><div class="training-form-heading"><div><span class="eyebrow">Your training brief</span><h3>Build your requirements</h3></div></div><div class="training-form-body">');
+section=section.replace('</form>','</form></div>');
+}
+if(section.includes('Your questions, answered.')||section.includes('Your questions,\n')) return faq;
+return section;
+});return html;
+};

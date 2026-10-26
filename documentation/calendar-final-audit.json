@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22T16:00:48.132Z",
+  "checks": 20,
+  "results": [
+    {
+      "width": 320,
+      "theme": "light",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "theme": "light",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "theme": "dark",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "theme": "light",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "theme": "dark",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "theme": "light",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "theme": "dark",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "theme": "light",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "theme": "light",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "theme": "dark",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "theme": "dark",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "light",
+      "dir": "rtl",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "dir": "ltr",
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "theme": "dark",
+      "dir": "rtl",
+      "overflow": false
+    }
+  ],
+  "accessibilityViolations": 0,
+  "errors": [],
+  "agendaDetails": true,
+  "programFilter": true,
+  "phonePattern": true,
+  "fonts": [
+    "bootstrap-icons",
+    "Inter",
+    "Plus Jakarta Sans"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-23T16:16:58.100Z",
+  "passed": [
+    "Employee creation and reload persistence",
+    "Employee editing and search",
+    "Batch creation with program, date, trainer and capacity",
+    "Enrollment creation, duplicate prevention, and capacity enforcement",
+    "Attendance and module updates persist and calculate progress",
+    "Both certificate types, eligibility, preview, and real PDF downloads",
+    "Filtered CSV export includes selected records and issued certificate IDs",
+    "Calendar navigation and session details",
+    "Public program search, empty state and blog pagination",
+    "Demo login and password visibility",
+    "Confirmed reset restores the coherent sample dataset"
+  ],
+  "axe": [
+    {
+      "page": "index",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "index",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "home-2",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "home-2",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "contact",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "contact",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "login",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "login",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/index",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/index",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/employees",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/employees",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/attendance",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/attendance",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/calendar",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/calendar",
+      "theme": "dark",
+      "violations": []
+    },
+    {
+      "page": "dashboard/settings",
+      "theme": "light",
+      "violations": []
+    },
+    {
+      "page": "dashboard/settings",
+      "theme": "dark",
+      "violations": []
+    }
+  ]
+}
