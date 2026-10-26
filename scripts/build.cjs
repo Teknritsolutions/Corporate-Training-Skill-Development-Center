@@ -749,3 +749,4 @@ console.log(
 require("./premium-pages.cjs").apply();
 
 require("./program-pages.cjs").apply();
+require("./root-home.cjs").apply();
